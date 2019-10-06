@@ -23,7 +23,7 @@ We had some issues getting our moisture sensor to work correctly, and thus for o
 Our project is broken into the following parts:
 * CompostDevice - This is our device code that gathers the temperature and humidity data from our Adafruit Feather Huzzah arduino device and puts it into the IoTHub.
 * CompostDataFunction - This is the Azure Function code that takes the data from the IoTHub Events and loads it into a CosmoDB.
-* CompostDataApi - This is the backend, .Net Core API that accesses the data in to CosmoDB database for the device. 
-* Compostr - This is our frontend application for displaying the compost data for a user to monitor.
+* [CompostDataApi](https://github.com/b-marie/CompostDataApi) - This is the backend, .Net Core API that accesses the data in to CosmoDB database for the device. 
+* [Compostr](https://github.com/HappyCamper123/Compostr) - This is our frontend application for displaying the compost data for a user to monitor.
 
 As this project is using cloud resources, connection strings and environment variables for this project are stored securely. If you would like access to the launchsettings and connection strings required to run this project locally, please contact any of the project team members.
