@@ -6,11 +6,11 @@
 ### Project Name - Compostr
 
 ### Team Members
-* Emily Baker
-* Mika Cruz
-* Brittany Ellich
-* Nicole Johnson
-* Ming Rutar
+* Emily "The Bread Baker" Baker
+* Mika "The Guru" Cruz
+* Brittany "The Iron Fist" Ellich
+* Nicole "The Rock" Johnson
+* Ming "The Master" Rutar
 
 ### Project Summary
 
